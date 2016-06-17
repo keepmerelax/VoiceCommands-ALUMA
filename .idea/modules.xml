@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/VoiceCommand.iml" filepath="$PROJECT_DIR$/VoiceCommand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VoiceCommands-ALUMA.iml" filepath="$PROJECT_DIR$/VoiceCommands-ALUMA.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
